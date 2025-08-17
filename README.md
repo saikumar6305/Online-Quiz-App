@@ -53,7 +53,7 @@ Enter your answer (1-4): 2
 ...
 
 --------------------------------
-🏆 Quiz Over! Your Score: 4/5
-👍 Good job, keep learning!
+Quiz Over! Your Score: 4/5
+Good job, keep learning!
 
 
