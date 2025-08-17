@@ -35,6 +35,7 @@ The app presents multiple-choice questions, accepts user input, and calculates t
 4. Compile the code:
    ```bash
    javac QuizApp.java
+   java QuizApp
 
 ---
 
